@@ -1,1 +1,2 @@
-# random_name
+＃random_name
+一个小小的c写的随机点名器啥都没
